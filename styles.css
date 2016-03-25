@@ -1,0 +1,28 @@
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    color: blue;
+    font-family: cursive;
+    font-size: 200%;
+}
+
+p {
+    color:green;
+    font-size: 20pt;
+    border:3px solid blue;
+    padding:5px;
+    margin:30px;
+}
+
+a:link {
+	color:green;
+	text-decoration: none;
+	background-color: transparent;
+}
+
+a:hover {
+	color:red;
+	text-decoration: underline;
+}
